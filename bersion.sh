@@ -1,0 +1,4 @@
+ #/bin/bas
+ uname -a
+
+
